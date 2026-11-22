@@ -8,3 +8,7 @@ Three areas in Git:
 
 My notes:
 - Done Todo 1
+- Done Todo 2
+- Done Todo 3
+- Done Todo 4
+- Done Todo 5
